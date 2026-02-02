@@ -150,6 +150,7 @@ vsce publish
 - 与 hutb 文档集成
 - 常见 Carla 操作的快速操作
 - Code snippets for common patterns
+- [将 vscode 和相关包打包为一个 hutb.zip](./docs/package.md)
 
 ## 许可证
 
